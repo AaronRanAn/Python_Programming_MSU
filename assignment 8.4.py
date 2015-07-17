@@ -1,4 +1,4 @@
-# Assignment 8.1
+# Assignment 8.4
 
 # 8.4 Open the file romeo.txt and read it line by line. 
 # For each line, split the line into a list of words using the split() function. 
